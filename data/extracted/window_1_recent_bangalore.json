@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "1ubzj2t",
+    "title": "Looking for early morning Yoga or Running partner early morning, 25 M, Techie",
+    "selftext": "",
+    "author": "single-soft123",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1782071706,
+    "url": "https://www.reddit.com/r/bangalore/comments/1ubzj2t/looking_for_early_morning_yoga_or_running_partner/",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubzj2t/looking_for_early_morning_yoga_or_running_partner/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [
+        {
+          "name": "25 M",
+          "type": "Person"
+        },
+        {
+          "name": "Techie",
+          "type": "Other"
+        }
+      ],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "Yoga",
+        "Running"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "Looking for early morning Yoga or Running partner early morning",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "1ubpg0b",
+    "title": "What will you do if you see someone is running away after snatching mobile phone?",
+    "selftext": "",
+    "author": "chunmunsingh",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1782046755,
+    "url": "https://v.redd.it/yt39hmfqvm8h1",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "This post is unrelated to gym and fitness in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot5kqet",
+    "body": "Stunts after a stent. Whatta way to go",
+    "author": "machetehands",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782146034,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot5ejkh",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot5kqet/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "Stunts",
+        "stent"
+      ],
+      "entity_types": [
+        "Concept",
+        "Condition"
+      ],
+      "topics": [
+        "Health & Wellness",
+        "Risk Management",
+        "Medical Conditions"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "key_opinion": "The comment sarcastically implies that engaging in dangerous 'stunts' after having a 'stent' is a regrettable or reckless choice.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot5ghlr",
+    "body": "Quick and wise reaction by the guy carrying sack",
+    "author": "Royal_Legend_19",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782144817,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot5ghlr/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "guy carrying sack"
+      ],
+      "entity_types": [
+        "Person"
+      ],
+      "topics": [
+        "Human Behavior",
+        "Observation",
+        "Praise"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.7,
+      "key_opinion": "The person carrying the sack exhibited a quick and wise reaction.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot5ejkh",
+    "body": "Yeah.. he had a stent put in it seems",
+    "author": "7thsonofthe7thson",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782144180,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot3kpqy",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot5ejkh/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "Health"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is discussing a medical procedure related to health and fitness.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot4hf5a",
+    "body": "what an iron ballsack this guy has",
+    "author": "iamGobi",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782134891,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot4hf5a/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "guy",
+        "iron ballsack"
+      ],
+      "entity_types": [
+        "Person",
+        "Concept"
+      ],
+      "topics": [
+        "gym culture",
+        "strength",
+        "resilience"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "key_opinion": "The commenter expresses admiration for the person's extreme courage or resilience.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot3xyis",
+    "body": "Yeah I know and he (one of the thief) died because the guy carrying the sack threw it at them while they were riding away after snatching. So I was hope the guy who threw the sack doesn't get wrongly prosecuted because he helped stop a crime. ",
+    "author": "Only_Pop_6216",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782128179,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot3xipn",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot3xyis/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "thief",
+        "the guy carrying the sack",
+        "sack",
+        "crime"
+      ],
+      "entity_types": [
+        "Person",
+        "Person",
+        "Other",
+        "Concept"
+      ],
+      "topics": [
+        "Crime",
+        "Justice",
+        "Self-defense"
+      ],
+      "sentiment": "mixed",
+      "sentiment_score": 0.3,
+      "key_opinion": "The speaker hopes the individual who intervened to stop a crime by throwing a sack is not wrongly prosecuted.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot3xipn",
+    "body": "It's the guy who ran away that died.",
+    "author": "ripthejacker007",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782128005,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot1vmvq",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot3xipn/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The post does not mention any specific opinion about gym and fitness in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot3kpqy",
+    "body": "Why? His heart couldnt handle the adrenaline rush?",
+    "author": "whereisdisboi",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782122305,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot2p8l6",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot3kpqy/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "His heart couldnt handle the adrenaline rush",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot3bz3a",
+    "body": "Respect 🫡🫡",
+    "author": "I_will_have_abs_2025",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782117822,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot3bz3a/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "Respect",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot3286w",
+    "body": "Should be the top comment",
+    "author": "Ann__A__",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782112687,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz4kg3",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot3286w/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        {
+          "name": "India",
+          "type": "Location"
+        },
+        {
+          "name": "gym",
+          "type": "Gym"
+        }
+      ],
+      "topics": [
+        "Fitness in India",
+        "Gym in India",
+        "Exercise Routine"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "key_opinion": "I've been going to this gym in India for a few months now and I'm really happy with the results.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2tb1p",
+    "body": "I just hope he was able to do that!",
+    "author": "Only_Pop_6216",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782108192,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot2k0ie",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2tb1p/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is expressing uncertainty or surprise.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2pr7c",
+    "body": "Thieves got some skill though.. they didn’t fall.. they ran at the same speed as they were riding their scooter.. ",
+    "author": "MysteriousBerry2494",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782106449,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2pr7c/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "Thieves",
+        "scooter"
+      ],
+      "entity_types": [
+        "Person",
+        "Product"
+      ],
+      "topics": [
+        "Crime",
+        "Observation",
+        "Skill"
+      ],
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "key_opinion": "The thieves displayed remarkable skill by managing to run at the same speed as their scooter without falling.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2p9kk",
+    "body": "https://www.indiatoday.in/india/story/mobile-snatcher-dies-of-suspected-heart-attack-while-fleeing-after-failed-theft-bid-2930265-2026-06-20",
+    "author": "terimaakasakinaka",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782106213,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2p9kk/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "There is no mention of gym and fitness in the given text.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2p8l6",
+    "body": "https://www.indiatoday.in/india/story/mobile-snatcher-dies-of-suspected-heart-attack-while-fleeing-after-failed-theft-bid-2930265-2026-06-20\n\n\nThe one thief died due to heart condition after trying to sprint away from the scene after talking from the scooty",
+    "author": "terimaakasakinaka",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782106200,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot2mk9w",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2p8l6/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The incident is unrelated to gym and fitness in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2mocc",
+    "body": "- phone + scooter",
+    "author": "the_undead_god",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782104987,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2mocc/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No opinion expressed in the text",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2mk9w",
+    "body": "Wtf! ",
+    "author": "King_sach",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782104935,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz91fq",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2mk9w/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No content provided.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2k0ie",
+    "body": "Psh it's India, that guy probably just took the sack and went home.",
+    "author": "Not_Nonymous1207",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782103753,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_ot1vmvq",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2k0ie/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "India"
+      ],
+      "entity_types": [
+        "Place"
+      ],
+      "topics": [
+        "Social commentary",
+        "Cultural observation"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "key_opinion": "In India, individuals often resign themselves to adverse situations without seeking further recourse.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot2giz2",
+    "body": "*Processing img dqzf6xhtgr8h1...*",
+    "author": "KnoUsername",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782102208,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osysa7d",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot2giz2/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "I'm looking for a good gym in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot21e81",
+    "body": "Wouodnt be surprised if thats stolen as well",
+    "author": "I_Like_Water11",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782096101,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz4kg3",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot21e81/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "entity_types": [],
+      "topics": [],
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "key_opinion": "The commenter expresses a lack of surprise at the possibility of something being stolen.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot1y917",
+    "body": "He got a free scooter as well",
+    "author": "Star_kid9260",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782094971,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osysa7d",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot1y917/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No opinion expressed about gym and fitness in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot1vmvq",
+    "body": "So, now what happens to the guy who threw the sack at them ?? Hope he doesn't get prosecuted! ",
+    "author": "Only_Pop_6216",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782094015,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz91fq",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot1vmvq/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "the guy who threw the sack at them",
+        "them"
+      ],
+      "entity_types": [
+        "Person",
+        "Person"
+      ],
+      "topics": [
+        "Legal implications",
+        "Social incident"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.7,
+      "key_opinion": "The commenter hopes the individual who threw the sack does not face legal prosecution.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot1u8ur",
+    "body": "Suspect died after running for a while",
+    "author": "5tar_dust",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782093509,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot1u8ur/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The suspect died after running for a while.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot1rkmb",
+    "body": "Literally took one of them out btw.",
+    "author": "sakshathsm",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782092532,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osysa7d",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot1rkmb/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 1.0,
+      "key_opinion": "I was able to successfully take down one of them.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot0ulwr",
+    "body": "Yeah, one of those thieves died",
+    "author": "terimaakasakinaka",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782080937,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz91fq",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot0ulwr/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -1.0,
+      "key_opinion": "The author is expressing anger or frustration towards someone who died.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot0fwfb",
+    "body": "Exchanged phone for a scooty.",
+    "author": "ismyaltaccount",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782076303,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osz4kg3",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/ot0fwfb/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "Exchanged phone for a scooty.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oszlbrq",
+    "body": "Will give medal /s ",
+    "author": "Feisty_Mud4187",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782067303,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/oszlbrq/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is giving a medal, implying a positive sentiment.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oszhbst",
+    "body": "i want your _sack_ to take me out",
+    "author": "LevelUpRizz",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782066143,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osysa7d",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/oszhbst/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is requesting help or assistance.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oszfzhn",
+    "body": "Kudos to the guy with the sack lol. Quick thinking",
+    "author": "SnoopyScone",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782065760,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/oszfzhn/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "the guy",
+        "sack"
+      ],
+      "entity_types": [
+        "Person",
+        "Concept"
+      ],
+      "topics": [
+        "Admiration",
+        "Courage",
+        "Quick thinking"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "key_opinion": "The comment expresses strong admiration for an individual's courage and quick thinking.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oszal77",
+    "body": "https://i.redd.it/c5desepubo8h1.gif",
+    "author": "Kooky-Measurement-43",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782064217,
+    "post_id": "1ubpg0b",
+    "parent_id": "t1_osysa7d",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/oszal77/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No main point could be extracted from the given text.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osz91fq",
+    "body": "One of the guys on the bike... ran 200mtrs to his death (he had some sort of a cardiac arrest).",
+    "author": "7thsonofthe7thson",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782063780,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/osz91fq/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "Death"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -1.0,
+      "key_opinion": "A guy died due to cardiac arrest while running.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osz4kg3",
+    "body": "Now take the scooty",
+    "author": "moxie_king7268",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782062513,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/osz4kg3/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No opinion or information about gym and fitness in India was provided.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osysa7d",
+    "body": "You're going about you life. Snatching phones day in day out as one does. And then one day, for no reason, a massive sack takes you out. C'est la vie. ",
+    "author": "u0x3B2",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782059036,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/osysa7d/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "phones",
+        "massive sack",
+        "C'est la vie"
+      ],
+      "entity_types": [
+        "Product",
+        "Other",
+        "Concept"
+      ],
+      "topics": [
+        "Crime",
+        "Urban Issues",
+        "Life Philosophy"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "key_opinion": "The comment suggests that engaging in negative actions like phone snatching can lead to unexpected and abrupt negative consequences, which are an inevitable part of life.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osys8j4",
+    "body": "Mja aaya",
+    "author": "Chemical_Idea_",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782059023,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/osys8j4/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "entity_types": [],
+      "topics": [
+        "Personal experience",
+        "Satisfaction"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "key_opinion": "The user expressed enjoyment or satisfaction.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osxpo2y",
+    "body": "Courtesy: thebengaluru360\n\n",
+    "author": "chunmunsingh",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782046946,
+    "post_id": "1ubpg0b",
+    "parent_id": "t3_1ubpg0b",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubpg0b/what_will_you_do_if_you_see_someone_is_running/osxpo2y/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        {
+          "name": "thebengaluru360",
+          "type": "Brand"
+        }
+      ],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "key_opinion": "thebengaluru360 is a great source for fitness information in India",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "1ubp5lx",
+    "title": "Adoption appeal🥹🐾🐶",
+    "selftext": "I've been fostering these 2 adorable stray Indie floofers (1 male, 1 female) for the past 20 days. They were found abandoned next to our house when they were approximately 3 weeks old, the mother probably passed away somewhere during the heavy rains.\n\n&#x200B;\n\nThey are absolutely lovely, but it's getting difficult to look after these two while I'm away most of the day, and the elders don't have the energy in them to take care of these two all day. \n\n&#x200B;\n\nLooking for a kind soul who'd want to adopt any of them and give them a good life🙏. They were born under fate's cruel circumstances, but it'd be wonderful if they're nourished by benevolent hands.\n\n&#x200B;\n\nKindly DM if you're interested in giving these two a loving home🙏.",
+    "author": "GajendarHouse",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1782045923,
+    "url": "https://www.reddit.com/gallery/1ubp5lx",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubp5lx/adoption_appeal/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [
+        "Bangalore",
+        "Indie floofers"
+      ],
+      "entity_types": [
+        "Place",
+        "Other"
+      ],
+      "topics": [
+        "pet adoption",
+        "animal welfare",
+        "community support",
+        "fostering"
+      ],
+      "sentiment": "mixed",
+      "sentiment_score": 0.2,
+      "key_opinion": "The user is appealing for someone to adopt two adorable stray puppies to give them a loving home.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osz7xm0",
+    "body": "OMG. Kuchu puchu cuties ",
+    "author": "sea_shore14",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782063468,
+    "post_id": "1ubp5lx",
+    "parent_id": "t3_1ubp5lx",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubp5lx/adoption_appeal/osz7xm0/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "No opinion or information about gym and fitness in India was provided.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osz5zkw",
+    "body": "PLEASE don't separate the siblings 🥺🥺🥺\n\nHope they both get adopted together in a loving caring home 🙏🏻🙏🏻",
+    "author": "PersonalityBudget969",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782062921,
+    "post_id": "1ubp5lx",
+    "parent_id": "t3_1ubp5lx",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubp5lx/adoption_appeal/osz5zkw/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "entity_types": [],
+      "topics": [
+        "Adoption",
+        "Family Bonds",
+        "Empathy",
+        "Welfare"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "key_opinion": "The user expresses a strong wish for the siblings to be adopted together into a loving and caring home.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osz1mki",
+    "body": "Following. Hope they get adopted soon",
+    "author": "Regular-Smell-5433",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782061676,
+    "post_id": "1ubp5lx",
+    "parent_id": "t3_1ubp5lx",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubp5lx/adoption_appeal/osz1mki/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is expressing hope for the adoption of something related to gym and fitness in India.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osyn7fa",
+    "body": "Cuties ",
+    "author": "_theduviyaaa_oo_",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782057563,
+    "post_id": "1ubp5lx",
+    "parent_id": "t3_1ubp5lx",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubp5lx/adoption_appeal/osyn7fa/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "There is no main point to discuss as the post is empty.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "1ubnzad",
+    "title": "Any good gyms near the Yelahanka area for women?",
+    "selftext": "[removed]",
+    "author": "strawberryl0ve",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1782042255,
+    "url": "https://www.reddit.com/r/bangalore/comments/1ubnzad/any_good_gyms_near_the_yelahanka_area_for_women/",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubnzad/any_good_gyms_near_the_yelahanka_area_for_women/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India",
+        "Women"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "Looking for good gyms near Yelahanka area for women.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "1ubkl0v",
+    "title": "Is Adiyogi Bengaluru’s most peaceful crowd?",
+    "selftext": "Took this photos at Adiyogi, Chikkaballapur during today’s Yoga Day event. Thousands of people gathered in one place, yet the atmosphere felt surprisingly calm and very clean.\n\nFor regular visitors, what makes Adiyogi special enough to revisit? Is there something beyond the statue and the events that people connect with?\n\nWould love to hear experiences from others who’ve visited.",
+    "author": "RutabagaFast8250",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1782030119,
+    "url": "https://www.reddit.com/gallery/1ubkl0v",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [
+        "Adiyogi",
+        "Bengaluru",
+        "Chikkaballapur",
+        "Yoga Day"
+      ],
+      "entity_types": [
+        "Place",
+        "Place",
+        "Place",
+        "Concept"
+      ],
+      "topics": [
+        "Community Atmosphere",
+        "Events",
+        "Travel",
+        "Yoga"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "key_opinion": "The Adiyogi event in Chikkaballapur on Yoga Day, despite drawing thousands, was noted for its surprisingly calm and clean atmosphere, leading to a query about what makes the place special enough for repeat visits.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "ot1n0rd",
+    "body": "I went for a ride thetr a few days back, ride was nice. Statute is beautiful. ",
+    "author": "Excellent_View264",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782090885,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/ot1n0rd/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "ride",
+        "Statute"
+      ],
+      "entity_types": [
+        "Exercise",
+        "Other"
+      ],
+      "topics": [
+        "Outdoor Activity",
+        "Sightseeing",
+        "Fitness"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "key_opinion": "The user had a nice ride and found the statue beautiful.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osyhbri",
+    "body": "Came here to look for some entertainment. Exactly as expected.",
+    "author": "Square-Stomach-6059",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782055832,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/osyhbri/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "r/bangalore",
+        "entertainment"
+      ],
+      "entity_types": [
+        "Place",
+        "Concept"
+      ],
+      "topics": [
+        "Online Communities",
+        "User Experience",
+        "Expectations"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.3,
+      "key_opinion": "The user found the content on r/bangalore to be entertaining, as anticipated.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "osxkqqn",
+    "body": "Can you please share a copy of Vijaykumari's death certificate? Does it actually record \"Mahasamadhi\" as the cause of death?",
+    "author": "aveihs56m",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782045107,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/osxkqqn/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        {
+          "name": "Vijaykumari",
+          "type": "Person"
+        },
+        {
+          "name": "Mahasamadhi",
+          "type": "Other"
+        }
+      ],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India",
+        "Death",
+        "Certificate"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is requesting a copy of Vijaykumari's death certificate to verify the cause of death.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswtm9c",
+    "body": "Folks don't need to be gullible. The way these Baba's proclaim things, it's very tempting. Learned, well educated, intelligent people have fallen for these Baba's. People need to get out of this temptation.",
+    "author": "NifflerMelons",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782032112,
+    "post_id": "1ubkl0v",
+    "parent_id": "t1_oswtf0y",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswtm9c/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "Baba's"
+      ],
+      "entity_types": [
+        "Person"
+      ],
+      "topics": [
+        "Deception",
+        "Gullibility",
+        "Social Commentary"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "key_opinion": "People, even the intelligent and educated, should not be gullible and must resist the temptations presented by 'Baba's'.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswtf0y",
+    "body": "No, it’s a cult filled with gullible morons",
+    "author": "saetarubia",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782032005,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswtf0y/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "entity_types": [],
+      "topics": [
+        "gym culture",
+        "community perception"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.9,
+      "key_opinion": "The entity being discussed is a cult filled with gullible followers.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswt5gp",
+    "body": "Till you comment about the Guru!",
+    "author": "ciphersage3",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782031864,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswt5gp/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "There is no specific opinion mentioned in the text.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswsy03",
+    "body": "lol! Comment from your real account Sadguru! ",
+    "author": "bhodrolok",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782031751,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswsy03/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "Sadguru"
+      ],
+      "entity_types": [
+        "Person"
+      ],
+      "topics": [
+        "Online Interaction",
+        "Redditor Behavior",
+        "Community Dynamics"
+      ],
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "key_opinion": "The comment playfully challenges the authenticity of the user being addressed, suggesting they are using an alternate account.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswsgta",
+    "body": "Nice try Jaggi",
+    "author": "gau-tam",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782031491,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswsgta/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author is neutral about the topic.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswrl8d",
+    "body": "Well there you go 😂",
+    "author": "randombangalorean",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782031015,
+    "post_id": "1ubkl0v",
+    "parent_id": "t1_oswr3wk",
+    "parent_type": "comment",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswrl8d/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [],
+      "topics": [
+        "gym",
+        "fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "There is no main point to capture.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "oswr3wk",
+    "body": "Last year my teammate’s phone got stolen in this peaceful crowd",
+    "author": "abhishek358",
+    "subreddit": "bangalore",
+    "score": 1,
+    "created_utc": 1782030755,
+    "post_id": "1ubkl0v",
+    "parent_id": "t3_1ubkl0v",
+    "parent_type": "post",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ubkl0v/is_adiyogi_bengalurus_most_peaceful_crowd/oswr3wk/",
+    "window": "window_1_recent",
+    "type": "comment",
+    "extraction": {
+      "entities": [
+        "teammate",
+        "phone"
+      ],
+      "entity_types": [
+        "Person",
+        "Product"
+      ],
+      "topics": [
+        "Crime",
+        "Public Safety",
+        "Personal Property"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "key_opinion": "A teammate's phone was stolen in a crowd described as peaceful.",
+      "time_window": "window_1_recent"
+    }
+  },
+  {
+    "id": "1ub3s5d",
+    "title": "KGA gym",
+    "selftext": "[removed]",
+    "author": "_____famnfede__",
+    "subreddit": "bangalore",
+    "score": 1,
+    "num_comments": 0,
+    "created_utc": 1781980149,
+    "url": "https://www.reddit.com/r/bangalore/comments/1ub3s5d/kga_gym/",
+    "permalink": "https://reddit.com/r/bangalore/comments/1ub3s5d/kga_gym/",
+    "window": "window_1_recent",
+    "type": "post",
+    "extraction": {
+      "entities": [
+        {
+          "name": "KGA",
+          "type": "Gym"
+        }
+      ],
+      "topics": [
+        "Gym",
+        "Fitness",
+        "India"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "key_opinion": "The author mentioned a gym but did not express any opinion about it.",
+      "time_window": "window_1_recent"
+    }
+  }
+]
