@@ -525,7 +525,6 @@ hercules-cyclops/
 
 | Metric | Value |
 |---|---|
-| Raw items collected | 11,536 |
 | Raw items scraped (all 15 files) | 11,536 |
 | Raw items in extracted files (9) | 11,074 |
 | Extraction success rate | 99.8% |
