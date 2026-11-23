@@ -403,28 +403,33 @@ Trajectory: **neutral/positive → crisis awareness → entrenched negativity.**
 
 ### Quick Start (Pre-populated data — just run the demo)
 
-If you have received this repo with `data/extracted/` and `data/chroma/` already populated:
+The extracted data and ChromaDB vectors are published as a release, so you don't need to re-run the 6–8 hour extraction.
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/hercules-cyclops.git
+git clone https://github.com/abckatta-genai/hercules-cyclops.git
 cd hercules-cyclops
 
-# 2. Install dependencies (~3 minutes)
+# 2. Download and unpack the pre-populated data (v1.0)
+curl -L -o data.tar.gz https://github.com/abckatta-genai/hercules-cyclops/releases/download/v1.0/hercules-data-v1.0.tar.gz
+tar -xzf data.tar.gz && rm data.tar.gz
+
+# 3. Install dependencies (~3 minutes)
 pip install sentence-transformers==2.7.0 transformers==4.41.0 chromadb neo4j groq anthropic
 
-# 3. Configure credentials
+# 4. Configure credentials
 cp .env.example .env
 # Edit .env — fill in NEO4J_URI, NEO4J_PASSWORD, ANTHROPIC_API_KEY
+# GROQ_API_KEY_* and GEMINI_API_KEY are only needed for the full pipeline
 
-# 4. Export credentials
+# 5. Export credentials and run the demo
 export $(grep -E 'NEO4J|ANTHROPIC' .env | xargs)
-
-# 5. Run demo
 python demo.py
 ```
 
 Expected output: 4 queries with graph results, vector results, fused results, and Claude-generated cited answers. Takes approximately 3–5 minutes.
+
+**Note:** The Neo4j graph is hosted on AuraDB, so the demo needs `NEO4J_*` credentials to query it. The release covers the vector store and extracted data.
 
 ### Full Pipeline (From Scratch)
 
