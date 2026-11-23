@@ -57,7 +57,7 @@ Reddit (Arctic Shift Archive)
 │  reddit_scraper.py   │  ← Stage 1: Raw data collection
 │  (Arctic Shift API)  │    5 subreddits scraped × 3 time windows
 └────────┬─────────────┘
-         │ 11,536 items → data/raw/ (15 JSON files, 3 subreddits extracted)
+         │          │ 11,536 items → data/raw/ (15 JSON files); 11,074 in the 9 extracted files
          ▼
 ┌──────────────────────┐
 │    extractor.py      │  ← Stage 2: LLM extraction
@@ -160,8 +160,7 @@ This three-window design directly enables the assignment's core temporal queries
 **Actual numbers:**
 - 1,278 posts + 10,258 comments = **11,536 items**
 - 15 raw JSON files scraped (5 subreddits × 3 windows)
-- 9 files proceed to extraction (r/india and r/hyderabad excluded on signal quality grounds)
-
+- 9 files proceed to extraction (r/india and r/hyderabad excluded on signal quality grounds): 11,074 raw items, 11,048 extracted, 26 skipped after retries
 ---
 
 ### Stage 2 — LLM Extraction (`src/ingestion/extractor.py`)
@@ -527,8 +526,9 @@ hercules-cyclops/
 | Metric | Value |
 |---|---|
 | Raw items collected | 11,536 |
-| Items successfully extracted | 11,048 |
-| Extraction success rate | 95.8% |
+| Raw items scraped (all 15 files) | 11,536 |
+| Raw items in extracted files (9) | 11,074 |
+| Extraction success rate | 99.8% |
 | Neo4j — Post nodes | 1,215 |
 | Neo4j — Comment nodes | 9,833 |
 | Neo4j — Author nodes | 4,750 (deduplicated) |
