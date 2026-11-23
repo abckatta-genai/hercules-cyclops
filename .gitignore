@@ -26,3 +26,5 @@ data/chroma/
 # Anaconda
 .conda/
 data/
+*.tar.gz
+*.tar.gz.part-*
