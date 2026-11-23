@@ -1,6 +1,6 @@
 # Hercules Cyclops — Hybrid GraphRAG System
 
-**Assignment:** GenAI Engineer, Jupiter Meta Labs  
+**GenAI Engineer** 
 **Topic:** Gym culture and fitness habits in urban India  
 **Built by:** Ashish Katta
 
